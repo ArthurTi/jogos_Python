@@ -5,7 +5,7 @@ def jogar_forca():
         print("* Bem vindo ao jogo de forca *")
         print("************************************")
 
-        palavra_secreta = "karina"
+        palavra_secreta = "Banana"
         letras_acertadas = ["_","_","_","_","_","_"]
         enforcou = False
         acertou =  False
